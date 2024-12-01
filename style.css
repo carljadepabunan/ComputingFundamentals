@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-wrap: nowrap;
+    font-family: 'Montserrat', sans-serif;
+    }
+    #body{
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+
+    td{
+        padding: 10px;
+    }
+
+
+    #table1{
+        padding-left: 10px;
+        padding-bottom: 15px;
+        padding-right: 25px;
+        border-bottom-color:black;
+        border-bottom-width: 3px;
+        border-bottom-style: solid;
+    }
+
+    #table1 img{
+        width: 100px;
+        height: 100px;
+        margin-right: 30px;
+    }
+    #table1 #name{
+        font-size: 40px;
+        font-weight: 900;
+    }
+    #table1 #role{
+        font-size: 25px;
+        font-weight: 600;
+        font-style: italic;
+    }
+
+    #table2{
+        padding-left: 10px;
+        padding-right: 9px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        border-bottom-color:black;
+        border-bottom-width: 3px;
+        border-bottom-style: solid;
+    }
+    #table3{
+        padding-left: 10px;
+        padding-right: 120px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        border-bottom-color:black;
+        border-bottom-width: 3px;
+        border-bottom-style: solid;
+    }
+    #table4{
+        padding-left: 10px;
+        padding-right: 165px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        border-bottom-color:black;
+        border-bottom-width: 3px;
+        border-bottom-style: solid;
+    }
+    #table5{
+        padding-left: 10px;
+        padding-right: 86px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        border-bottom-color:black;
+        border-bottom-width: 3px;
+        border-bottom-style: solid;
+    }
+    #table6{
+        padding-left: 10px;
+        padding-right: 201px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    div{
+        background-color: aliceblue;
+        width: 690px;
+        margin: 100px;
+        border-color: black;
+        border-width: 3px;
+        border-style: solid;
+}
